@@ -1,4 +1,5 @@
 function coinFlip(numTimes) {
+  
     // Instead of a while loop, use a counting loop that will 
     // have a definite end point
     for(var i = 0; i < numTimes; i++){
